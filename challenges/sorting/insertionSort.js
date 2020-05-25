@@ -9,9 +9,4 @@ const insertionSort = (array) => {
 	return array;
 }
 
-const insert = (array, elId, i) => {
-	
-	console.log(array)
-}
-
 console.log(insertionSort([88,5,21,3,54,6,35]));
